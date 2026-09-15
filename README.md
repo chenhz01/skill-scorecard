@@ -2,7 +2,7 @@
 
 A 30-second safety scorecard for AI agent skills — run it on any skill folder or GitHub repo before you install it.
 
-**Part of the Evidence-first Agents suite** — tooling that makes AI agents accountable instead of just capable: [answer-contract](https://github.com/chenhz01/answer-contract) (output discipline) · [skill-spec](https://github.com/chenhz01/skill-spec) (spec discipline) · [memory-wiki](https://github.com/chenhz01/memory-wiki) (memory discipline). Same author, same zero-dependency philosophy.
+**Part of the Evidence-first Agents suite** — tooling that makes AI agents accountable instead of just capable: [answer-contract](https://github.com/chenhz01/answer-contract) (output discipline) · [skill-spec](https://github.com/chenhz01/skill-spec) (spec discipline) · [memory-wiki](https://github.com/chenhz01/memory-wiki) (memory discipline) · [skill-os](https://github.com/chenhz01/skill-os) (the assembly line). Same author, same zero-dependency philosophy.
 
 ## Why
 
